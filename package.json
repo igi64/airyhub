@@ -1,16 +1,21 @@
 {
-  "name": "app-name",
+  "name": "AiryHub",
   "version": "0.0.1",
-  "private": true,
-  "dependencies": {
-    "locomotive": "0.4.x",
-    "bootable": "0.2.x",
-    "bootable-environment": "0.2.x",
-    "express": "3.x.x",
-    "connect-powered-by": "0.1.x",
-    "ejs": "0.8.x"
+  "description": "IBP middleware platform.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/igi64/airyhub.git"
   },
-  "scripts": {
-    "start": "node server.js"
+  "engines": {
+    "node": ">=0.11.11"
+  },
+  "author": {
+    "name": "Igor Zboran",
+    "url": "https://github.com/igi64"
+  },
+  "dependencies": {
+    "koa": "~0.5",
+    "co": "^3.0.5",
+    "lodash": "~2.4"
   }
 }

@@ -1,4 +1,4 @@
 airyhub
 =======
 
-An IBP middleware platform.
+My IBP middleware platform playground.
