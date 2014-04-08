@@ -1,7 +1,7 @@
 {
   "name": "AiryHub",
   "version": "0.0.1",
-  "description": "IBP middleware platform.",
+  "description": "IBP middleware platform playground",
   "repository": {
     "type": "git",
     "url": "git://github.com/igi64/airyhub.git"
@@ -16,6 +16,8 @@
   "dependencies": {
     "koa": "~0.5",
     "co": "^3.0.5",
-    "lodash": "~2.4"
+    "lodash": "~2.4",
+    "koa-logger": "^1.2.0",
+    "co-mongo": "0.0.1"
   }
 }
