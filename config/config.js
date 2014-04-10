@@ -16,9 +16,6 @@ var baseConfig = {
     cookie_parser: 'your cookie secret here',
     session_secret: 'your session secret here'
   },
-  mongo: {
-    url: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost:27017/airyhub'
-  },
   mysql: {
     host: 'localhost',
     port: 3306,
