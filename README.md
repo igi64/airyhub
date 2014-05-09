@@ -1,4 +1,4 @@
 AiryHub
 =======
 
-Reverse-Proxy Tunnel for [Identity-Based Encryption Key Generator](https://github.com/igi64/airykey).
+User-Managed Access (@UMAWG) hub for the[Identity-Based Privacy](http://igi64.github.io/index.html) project.
